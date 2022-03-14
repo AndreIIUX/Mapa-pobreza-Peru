@@ -4,3 +4,9 @@
 Uno de las aplicaciones más interesantes fue la realización de gráfico de mapas.</p>
 <p>El siguiente repositorio añadiré los archivos y los códigos para realizar ese gráfico.</p>
 <p>El mapa representa el porcentaje de pobreza en Perú en 2019 por departamentos, según el INEI.</p>
+<p>El objetivo fue:
+ <ul>
+    <li>Analizar el porcentaje de pobreza en Perú por departamento a través de un gráfico de mapas.</li>
+    <li>Además, se hace el mismo proceso para analizar el nivel de urbanidad.</li>
+ </ul>
+   </p>
